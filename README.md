@@ -1,3 +1,3 @@
-### Hi there 👋
+## Hi there 👋
 
-## Currently coding in JavaScript and C# 💻
+### Currently coding in JavaScript and C# ⌨️
